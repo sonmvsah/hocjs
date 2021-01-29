@@ -2,7 +2,7 @@
  * Check xem chuỗi có phải chuỗi đối xứng hay không
  * checkString("acbecba") = true
  * checkString("abe") = false
- * 
+ * up
  */
 
 const string1 = "abcecba";
