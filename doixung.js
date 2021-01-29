@@ -1,0 +1,1 @@
+console.log("bài tập đối xứng");
